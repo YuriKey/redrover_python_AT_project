@@ -44,7 +44,7 @@ cases = []
 
 @app.get("/")
 def read_root():
-    return {"Hello": "World"}
+    return {"wakeup": "neo"}
 
 
 @app.post("/testcases/", response_model=Case)
