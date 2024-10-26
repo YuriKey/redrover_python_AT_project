@@ -20,7 +20,7 @@
 3. docs можно посмотреть на http://127.0.0.1:8000/docs
 
 ## - Запустить фронтенд ##
-1. перейти в папку cd lesson1\app\front
+1. перейти в папку cd .\lesson1\app\front\
 2. ввести команду npm run dev
    - если просит node, то pip install node
    - если просит npm, то pip install npm и npm install
